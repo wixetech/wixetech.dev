@@ -1,1 +1,3 @@
 .git
+out/.well-known
+out/.well-known/*
